@@ -8,8 +8,6 @@ pip install vosk
 
 pip install sounddevice
 
-cd k9_piper_voice
-
 pip install -r requirements
 
 pip install ollama
